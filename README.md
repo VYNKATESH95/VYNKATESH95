@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**VYNKATESH95/VYNKATESH95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VYNKATESH95/VYNKATESH95** 
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sinhasanevynkatesh@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Too Confused in small things and have a broader clarity in complex things
--->
+
