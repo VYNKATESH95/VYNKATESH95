@@ -1,8 +1,5 @@
 ### Hi there 👋
 **VYNKATESH95/VYNKATESH95** 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on text based AI adventure game and Fully functional AI Navigational Robot
 - 🌱 I’m currently learning Bachelors of Engineering in the feild of Artificial Intelligence and Data Science
 - 👯 I’m looking to collaborate on projects related on Quantum Computing and Nueromorphic Computing
